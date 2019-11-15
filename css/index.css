@@ -1,0 +1,21 @@
+body{
+    background-color:aliceblue;
+}
+
+.food{
+ border:2px solid white;
+ box-shadow: 1px 1px 1px 1px rgb(105, 104, 104);
+ background-color:white;
+}
+.food img{
+    width:200px;
+    height: 100px;
+    margin: 10px 30px 10px 30px;
+
+}
+
+.content .container{
+    margin-top:2em;
+    color:black;
+    line-height: 2em;
+}
